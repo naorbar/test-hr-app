@@ -11,9 +11,9 @@ This is a project used for testing senior Java candidates
     4. Add a new user
     5. Update an existing user
     6. Delete an existing user
-4. There are several defects in this application: some are major design issues, some are programatical/structural mistakes, and some are styling issues. 
+4. There are several defects in this application (server side only): some are major design issues, some are programmatical/structural mistakes, and some are styling issues. 
   Please write down everything you suspect is a defect for later discussion. 
   Please explain how one should treat each defect.
-5. Please fix everything you can to make this application: efficient, readable and programatically correct. 
-6. Implement a sort method based on the users ids; Which data structure is best used for such application (consider time and memory complexity)?
+5. Please fix everything you can to make this application: efficient, readable and programmatically correct. 
+6. Implement a sort method based on the users ids; Which data structure is best used for this application (consider time and memory complexity)?
 
