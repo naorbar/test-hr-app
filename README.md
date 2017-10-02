@@ -13,8 +13,8 @@ This is a project used for testing senior Java candidates<p>
     6. Delete an existing user
 4. Use any REST client such as Postman, to test the REST HrController's methods
 5. There are several defects in this application (server side only): some are major design issues, some are programmatical/structural mistakes, and some are styling issues. 
-    * Please write down everything you suspect is a defect for later discussion. 
-    * Please explain how one should treat each defect.
+    * please write down everything you suspect is a defect for later discussion 
+    * please explain how one should treat each defect
 6. Please fix everything you can to make this application: 
     * programmatically correct 
     * efficient
