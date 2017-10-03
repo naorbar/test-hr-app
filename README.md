@@ -21,7 +21,7 @@ This is a project used for testing senior Java candidates<p>
     * readable 
 7. Implement a sort method based on the users ids; Which data structure is best used for this application (consider time and memory complexity)?
 8. What is the biggest problem in this application (hint: design wise rather than programming wise)
-9. What is dependecy injection? HrManager is @autowired; why not using a static utility class instead? 
+9. What is dependency injection? HrManager is @autowired; why not using a static utility class instead? 
     
 **Goodluck** :+1:
 
